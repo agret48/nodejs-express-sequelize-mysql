@@ -1,7 +1,7 @@
 const dbConfig = require("../db.config.js");
 
 const Sequelize = require("sequelize");
-const a = "mysql://root:NDTKrThduvckBeOPYnbmRsqogXZzkGNa@roundhouse.proxy.rlwy.net:19762/railway"
+const a = "mysql://root:QdiVdaGmNWcXbRfEfzVQNGvkOMewlJcS@viaduct.proxy.rlwy.net:22284/railway"
 const sequelize = new Sequelize(a);
 
 const db = {};
